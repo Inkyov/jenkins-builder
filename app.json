@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Unbarlievable",
+    "icon": "./gym.png",
+    "version": "1.0.0",
+    "slug": "unbarlievable",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.unbarlievable"
+    },
+    "android": {
+      "package": "com.unbarlievable",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyACTrBAOWulv-Er7zffRDL0xJJHCihn5go" }
+      }
+    }
+  }
+}
